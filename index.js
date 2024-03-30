@@ -36,11 +36,11 @@ let students =[
 //Q-1 return only name of student in capital letter 
 
 // for loop 
-// let names=[];
-// for (let i=0; i<students.length; i++){
-//   names.push(students[i].name.toUpperCase())
-// }
-// console.log(names)
+let names=[];
+for (let i=0; i<students.length; i++){
+  names.push(students[i].name.toUpperCase())
+}
+console.log(names)
 
 // forreach
 
