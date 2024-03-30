@@ -11,7 +11,7 @@
 
 // MAP- transform the array each and every value and return new array from it is knows as map function
 
-const arr=[2,3,4,5]
+// const arr=[2,3,4,5]
 // const output =arr.map((x)=> x*5)
 // console.log(output)
 
